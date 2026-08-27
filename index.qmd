@@ -1,0 +1,17 @@
+---
+title: "My First Quarto Site"
+author: "Solomon Sledge"
+format: html
+---
+
+## Welcome
+
+This page was written in **Quarto** and published straight to GitHub.
+
+- It renders to a real web page.
+- The source is plain text, so Git tracks every change cleanly.
+
+
+```{python}
+print("Hello from a rendered code chunk")
+```
